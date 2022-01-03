@@ -10,6 +10,7 @@
 
 		<div id="container"></div>
 		<div id="info">
+		
 			click to AcQBlate
 		</div>
 
@@ -202,10 +203,10 @@
 
 				const gui = new GUI();
 
-				gui.add( params, 'AcQBlate min', 1, 30 );
-				gui.add( params, 'AcQBlate max', 1, 30 );
-				gui.add( params, 'AcQCross rotate' );
-				gui.add( params, 'AcQMap clear' );
+				gui.add( params, 'minScale', 1, 30 );
+				gui.add( params, 'maxScale', 1, 30 );
+				gui.add( params, 'rotate' );
+				gui.add( params, 'clear' );
 				gui.open();
 
 				onWindowResize();
