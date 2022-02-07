@@ -12,15 +12,14 @@
 <p align="center">
 	<strong>
 		<a href="https://www.linkedin.com/in/hsienchen/">Website</a>
-	
 	</strong>
 </p>
 
 
-
 # XR CME
--
-XR CME is a open-source project, it meants to build a VR-powered ** peer-to-peer communiation platform**. We made the project with the intent that it can help bridge to communication hurdles and facilitate smooth and seamingless communications among medical professionals.
+XR CME is a open-source project, it meants to build a VR-powered ** peer-to-peer communiation platform**. 
+
+We made the project with the intent that it can help bridge to communication hurdles and facilitate smooth and seamingless communications among medical professionals.
 
 Contact us for further information at <a href="https://https://simonche.github.io/">XR CME</a>.
 
@@ -35,7 +34,7 @@ Contact us for further information at <a href="https://https://simonche.github.i
 
 This repository contains the website for the OpenEP project.
 
-<p align="center"> <img src="ressources/OPENEP_logo.png.png"> </p>
+<p align="center"> <img src="ressources/OPENEP_logo.png"> </p>
 
 # Develop Locally
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
@@ -64,6 +63,6 @@ Functions to assist in the reading, analysis and plotting of ECG and VCG data
 
 # Case Presentation
 
-<p align="center"> <img src="ressources/case4.png"> </p>
+<p align="center"> <img src="ressources/Case4.png"> </p>
 
-<p align="center"> <img src="ressources/case5.png"> </p>
+<p align="center"> <img src="ressources/Case5.png"> </p>
