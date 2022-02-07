@@ -34,7 +34,7 @@ Contact us for further information at <a href="https://https://simonche.github.i
 
 This repository contains the website for the OpenEP project.
 
-<p align="center"> <img src="ressources/OPENEP_logo.png"> </p>
+<p align="center"> <img src="ressources/OEP_logo.png"> </p>
 
 # Develop Locally
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
