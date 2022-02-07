@@ -1,33 +1,31 @@
-
+# Medical Case Presenter
+<h3 align="center">
+	Open-source VR Platform for Medical Education.
+</h3>
 <h1 align="center">
 	<img
 		width="400"
 		alt="XR CME"
 		src="ressources/case_workflow.jpg">
 </h1>
-
-<h3 align="center">
-	Open-source VR Platform for Medical Education.
-</h3>
 <p align="center">
 	<strong>
 		<a href="https://www.linkedin.com/in/hsienchen/">Website</a>
 	</strong>
 </p>
 
-
-# XR CME
+# XR CME-the Project
 XR CME is a open-source project, it meants to build a VR-powered ** peer-to-peer communiation platform**. 
 
 We made the project with the intent that it can help bridge to communication hurdles and facilitate smooth and seamingless communications among medical professionals.
 
 Contact us for further information at <a href="https://https://simonche.github.io/">XR CME</a>.
 
-# Hardware Platform
+# Hardware
 
 <p align="center"> <img src="ressources/img/front.jpg"> </p>
 
-# 3D Platform
+# 3D Case Presenter
 <p align="center"> <img src="ressources/case_workflow2.jpg"> </p>
 
 # Install OPENEP environment
@@ -61,7 +59,7 @@ This repository contains the website for the OpenEP project.
 Functions to assist in the reading, analysis and plotting of ECG and VCG data
 <p align="center"> <img src="ressources/case3.png"> </p>
 
-# Case Presentation
+# Live Case Discussion
 
 <p align="center"> <img src="ressources/Case4.png"> </p>
 
